@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 # Курсы:
 - [Яндекс.Практикум: Специалист по Data Science](https://praktikum.yandex.ru/data-scientist)
+- [МФТИ ФПМИ. Машинное обучение, основной поток, лекции (3 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj)
 
 # Проекты:
 ### Аналитика
