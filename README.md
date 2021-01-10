@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 |:-------|:-------:|:-------|:-------:|
 
 # Моя статистика: 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Stuksus&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Stuksus&show_icons=true&include_all_commits=true)
