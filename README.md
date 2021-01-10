@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=Stuksus&style=plastic&label=profile+views&color=orange)
 <!--
 **Stuksus/Stuksus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 |:-------|:-------:|:-------|:-------:|
 
 # Моя статистика: 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Stuksus&show_icons=true&include_all_commits=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Stuksus&show_icons=true&&hide=issues,contribs)
