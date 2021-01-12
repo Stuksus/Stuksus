@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - [МФТИ ФПМИ. Машинное обучение, основной поток, семинары (3 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYPOWn6e44RKxEfRWEsPA1z)
 
 # Проекты:
-
-<details>
-  <summary style="font-size: 150%;"> Аналитика</summary>
+## Аналитика:
+<details open>
+  <summary>Список проетктов по теме</summary>
 <table>
 <tr>
   <th>Название проекта</th>
@@ -63,8 +63,10 @@ Here are some ideas to get you started:
 </table>
 </details>
 
-<details>
-  <summary style="font-size: 150%;">Классификация</summary>
+## Классификация:
+
+<details open>
+  <summary>Список проетктов по теме</summary>
 <table>
 <tr>
   <th>Название проекта</th>
