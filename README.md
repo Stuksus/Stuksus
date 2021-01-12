@@ -91,5 +91,27 @@ Here are some ideas to get you started:
 </table>
 </details>
 
+## Регрессия:
+
+<details open>
+  <summary>Список проетктов по теме</summary>
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Источник проекта</th>
+  <th>Описание</th>
+  <th>Статус проекта</th>
+</tr> 
+  
+<tr>
+  <td><a href = "https://github.com/Stuksus/Profit-prediction-upon-oil">Прогнозирование прибыли от нефтяных скважин</a></td>
+  <td>Яндекс.Практикум</td>
+  <td>Нужно решить, где бурить новую нефтяную скважину для получения наибольшей прибыли</td>
+  <td>Завершен</td>
+</tr>
+  
+</table>
+</details>
+
 # Моя статистика: 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Stuksus&show_icons=true&&hide=issues,contribs)
