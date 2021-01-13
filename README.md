@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![](https://komarev.com/ghpvc/?username=Stuksus&style=plastic&label=profile+views&color=orange)
 <!--
 **Stuksus/Stuksus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
