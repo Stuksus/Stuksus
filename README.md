@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 </details>
 
 ## Регрессия:
-https://github.com/Stuksus/Gold-recovery
+
 <details open>
   <summary>Список проетктов по теме</summary>
 <table>
