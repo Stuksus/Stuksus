@@ -150,7 +150,7 @@ Here are some ideas to get you started:
 
 <!-- NLP-->
 <details open>
-  <summary>Анализ тестов (NLP)</summary>
+  <summary>Анализ текстов (NLP)</summary>
 <table>
 <tr>
   <th>Название проекта</th>
