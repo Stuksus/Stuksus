@@ -95,6 +95,13 @@ Here are some ideas to get you started:
   <td>На основании исторических данных необходимо разработать модель предсказывающую цены на автомобили</td>
   <td>Завершен</td>
 </tr>
+
+<tr>
+  <td><a href = "https://github.com/Stuksus/LinearRegressionSGD">Реализация линейной регрессии</a></td>
+  <td>МФТИ ФПМИ</td>
+  <td>Исследование по сравнению собственной реализации линейной регрессии и пакетным решением SGDRegressor из sklearn</td>
+  <td>Завершен</td>
+</tr>
   
 </table>
 </details>
