@@ -145,6 +145,14 @@ Here are some ideas to get you started:
   <td>Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Мне предоставлены исторические данные о поведении клиентов и расторжении договоров с банком</td>
   <td>Завершен</td>
 </tr>
+
+<tr>
+  <td><a href = "https://github.com/Stuksus/LogisticRegression">LogisticRegression on PyTorch</a></td>
+  <td>МФТИ ФПМИ</td>
+  <td>Реализация LogisticRegression на PyTorch</td>
+  <td>Завершен</td>
+</tr>
+
 </table>
 </details>
 
