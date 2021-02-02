@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
+# Мое резюме:
+ - [Резюме](https://github.com/Stuksus/Stuksus/blob/main/Anton-Smetanin-CV.pdf)
 # Курсы:
 - [Яндекс.Практикум: Специалист по Data Science](https://praktikum.yandex.ru/data-scientist)
 - [МФТИ ФПМИ. Машинное обучение, основной поток, лекции (3 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj)
