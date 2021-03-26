@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 # Мое резюме:
  - [Резюме](https://github.com/Stuksus/Stuksus/blob/main/Anton-Smetanin-CV.pdf)
+# Сертификаты:
+ - Яндекс.Практикум: [RUS](https://github.com/Stuksus/Stuksus/blob/main/certificate.pdf)/[EN](https://github.com/Stuksus/Stuksus/blob/main/certificate_en.pdf)
 # Курсы:
 - [Яндекс.Практикум: Специалист по Data Science](https://praktikum.yandex.ru/data-scientist)
 - [МФТИ ФПМИ. Машинное обучение, основной поток, лекции (3 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj)
