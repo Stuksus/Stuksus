@@ -24,6 +24,26 @@ Here are some ideas to get you started:
 - [МФТИ ФПМИ. Машинное обучение, основной поток, семинары (3 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYPOWn6e44RKxEfRWEsPA1z)
 
 # Проекты:
+## Курсовая работа:
+<details open>
+  <summary>Список проетктов по теме</summary>
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Источник проекта</th>
+  <th>Описание</th>
+  <th>Статус проекта</th>
+</tr> 
+<tr>
+  <td><a href = "https://github.com/Stuksus/Credit_scoring_model">Модель кредитного скоринга</a></td>
+  <td>НИУ ВШЭ, Kaggle</td>
+  <td>Построить модель банковского скоринга,оценить экономический эффект от внедрения новой модели</td>
+  <td>В процессе</td>
+</tr>
+</table>
+</details>
+
+
 ## Аналитика:
 <details open>
   <summary>Список проетктов по теме</summary>
