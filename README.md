@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <td><a href = "https://github.com/Stuksus/Credit_scoring_model">Модель кредитного скоринга</a></td>
   <td>НИУ ВШЭ, Kaggle</td>
   <td>Построить модель банковского скоринга,оценить экономический эффект от внедрения новой модели</td>
-  <td>В процессе</td>
+  <td>Завершен</td>
 </tr>
 </table>
 </details>
