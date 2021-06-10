@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - [МФТИ ФПМИ. Машинное обучение, основной поток, лекции (3 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj)
 - [МФТИ ФПМИ. Машинное обучение, основной поток, семинары (3 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYPOWn6e44RKxEfRWEsPA1z)
 # Курсовые работы:
-- [Масютин А.А.](https://www.hse.ru/org/persons/14279019),[Оценка экономического эффекта и улучшений от внедрения моделей машинного обучения на данных из банковского сектора в задачах бинарной классификации](https://github.com/Stuksus/Credit_scoring_model)
+- [Масютин А.А.](https://www.hse.ru/org/persons/14279019),[Оценка экономического эффекта и улучшений от внедрения моделей машинного обучения на данных из банковского сектора в задачах бинарной классификации](https://github.com/Stuksus/Credit_scoring_model/blob/main/Курсовая%20работа.pdf)
 # Проекты:
 ## Курсовые работы:
 <details open>
