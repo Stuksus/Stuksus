@@ -19,9 +19,34 @@ Here are some ideas to get you started:
 # Сертификаты:
  - Яндекс.Практикум: [RUS](https://github.com/Stuksus/Stuksus/blob/main/certificate.pdf)/[EN](https://github.com/Stuksus/Stuksus/blob/main/certificate_en.pdf)
 # Курсы:
-- [Яндекс.Практикум: Специалист по Data Science](https://praktikum.yandex.ru/data-scientist)
+<table>
+<tr>
+  <th>Название курса</th>
+  <th>Форма обучения</th>
+  <th>Статус проекта</th>
+</tr> 
+<tr>
+  <td><a href = "https://www.hse.ru/ba/ami/courses/292689583.html">НИУ ВШЭ (ФКН ПМИ): Машинное обучение 1</a></td>
+  <td>Очная</td>
+  <td>В процессе</td>
+</tr> 
+<tr>
+  <td><a href = "https://github.com/Stuksus/Credit_scoring_model">Яндекс.Практикум: Специалист по Data Science</a></td>
+  <td>Дистанционная</td>
+  <td>Завершен</td>
+</tr> 
+<tr>
+  <td>
+   <a href = "https://mipt.ru/online/algoritmov-i-tekhnologiy/machin-learning.php" >МФТИ ФПМИ. Машинное обучение, основной поток (3 курс, 2020)</a>
+  </td>
+  <td>Дистанционная</td>
+  <td>Завершен</td>
+</tr> 
+</table>
+
+<!-- - [Яндекс.Практикум: Специалист по Data Science](https://praktikum.yandex.ru/data-scientist)
 - [МФТИ ФПМИ. Машинное обучение, основной поток, лекции (3 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj)
-- [МФТИ ФПМИ. Машинное обучение, основной поток, семинары (3 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYPOWn6e44RKxEfRWEsPA1z)
+- [МФТИ ФПМИ. Машинное обучение, основной поток, семинары (3 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYPOWn6e44RKxEfRWEsPA1z) -->
 # Курсовые работы (Тексты):
 - [Масютин А.А.](https://www.hse.ru/org/persons/14279019),[Оценка экономического эффекта и улучшений от внедрения моделей машинного обучения на данных из банковского сектора в задачах бинарной классификации](https://github.com/Stuksus/Credit_scoring_model/blob/main/Курсовая%20работа.pdf)
 # Проекты:
