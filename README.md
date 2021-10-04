@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <tr>
   <th>Название курса</th>
   <th>Форма обучения</th>
-  <th>Статус проекта</th>
+  <th>Статус</th>
 </tr> 
 <tr>
   <td><a href = "https://www.hse.ru/ba/ami/courses/292689583.html">НИУ ВШЭ (ФКН ПМИ): Машинное обучение 1</a></td>
