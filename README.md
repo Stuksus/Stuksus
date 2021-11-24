@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   <td>Очная</td>
   <td>В процессе</td>
   <td>Финалист</td>
-  <td>Временно не доступно</td>
+  <td>Временно недоступно</td>
 </tr> 
 </table>
 
