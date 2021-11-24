@@ -44,9 +44,32 @@ Here are some ideas to get you started:
 </tr> 
 </table>
 
-<!-- - [Яндекс.Практикум: Специалист по Data Science](https://praktikum.yandex.ru/data-scientist)
-- [МФТИ ФПМИ. Машинное обучение, основной поток, лекции (3 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj)
-- [МФТИ ФПМИ. Машинное обучение, основной поток, семинары (3 курс, 2020)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYPOWn6e44RKxEfRWEsPA1z) -->
+# Хакатоны:
+<table>
+<tr>
+  <th>Название хакатона</th>
+  <th>Форма проведения</th>
+  <th>Статус</th>
+  <th>Результаты</th>
+  <th>Решение</th>
+</tr> 
+<tr>
+  <td><a href = "https://dsbattle.com/hackathons/gsb/">GSB Data Science Practice</a></td>
+  <td>Очная</td>
+  <td>Завершен</td>
+  <td>Финалист (6 место)</td>
+  <td><a href = "https://github.com/Stuksus/Hackaton_SBER">Решение</a></td>
+</tr> 
+<tr>
+  <td><a href = "https://finodays.com/">FINODAYS</a></td>
+  <td>Очная</td>
+  <td>В процессе</td>
+  <td>Финалист</td>
+  <td>Временно не доступно</td>
+</tr> 
+</table>
+
+
 # Курсовые работы (Тексты):
 - [Масютин А.А.](https://www.hse.ru/org/persons/14279019),[Оценка экономического эффекта и улучшений от внедрения моделей машинного обучения на данных из банковского сектора в задачах бинарной классификации](https://github.com/Stuksus/Credit_scoring_model/blob/main/Курсовая%20работа.pdf)
 # Проекты:
