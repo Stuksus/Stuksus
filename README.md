@@ -245,7 +245,14 @@ Here are some ideas to get you started:
   <td>Реализация LogisticRegression на PyTorch</td>
   <td>Завершен</td>
 </tr>
-
+ 
+<tr>
+  <td><a href = "https://github.com/Stuksus/HW5_ML1_Decision_Tree">Решающие деревья в задачах классификации</a></td>
+  <td>Машинное обучение 1</td>
+  <td>В первом разделе будут применяться деревья из sklearn для задачи классификации.Во втором разделе будет реализовано свое решающее дерево и сравнение его со стандартное имплиментацией из sklearn.</td>
+  <td>Завершен</td>
+</tr> 
+ 
 </table>
 </details>
 
