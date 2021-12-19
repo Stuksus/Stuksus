@@ -139,6 +139,13 @@ Here are some ideas to get you started:
   <td>Завершен</td>
 </tr> 
  
+<tr>
+  <td><a href = "https://github.com/Stuksus/HW6_ML1_Biase_Variance_Decomposition">Оценка моделей на основе BVD (Biase Variance Decomposition)</a></td>
+  <td>Машинное обучение 1</td>
+  <td>В этом проекте предстоит воспользоваться возможностями бутстрапа для оценки смещения и разброса алгоритмов машинного обучения</td>
+  <td>Завершен</td>
+</tr> 
+ 
 </table>
 </details>
 
