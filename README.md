@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <td><a href = "https://dsbattle.com/hackathons/gsb/">GSB Data Science Practice</a></td>
   <td>Очная</td>
   <td>Завершен</td>
-  <td>Финалист (6 место)</td>
+  <td>Финалист (5 место)</td>
   <td><a href = "https://github.com/Stuksus/Hackaton_SBER">Решение</a></td>
 </tr> 
 <tr>
