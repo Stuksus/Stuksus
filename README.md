@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <tr>
   <td><a href = "https://www.hse.ru/ba/ami/courses/292689583.html">НИУ ВШЭ (ФКН ПМИ): Машинное обучение 1</a></td>
   <td>Очная</td>
-  <td>В процессе</td>
+  <td>Завершен</td>
 </tr> 
 <tr>
   <td><a href = "https://github.com/Stuksus/Credit_scoring_model">Яндекс.Практикум: Специалист по Data Science</a></td>
