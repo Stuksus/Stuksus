@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 # Проекты:
 ## Курсовые работы:
 <details open>
-  <summary>Список проетктов по теме</summary>
+  <summary>Список проектов по теме</summary>
 <table>
 <tr>
   <th>Название проекта</th>
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 
 ## Аналитика:
 <details open>
-  <summary>Список проетктов по теме</summary>
+  <summary>Список проектов по теме</summary>
 <table>
 <tr>
   <th>Название проекта</th>
@@ -185,7 +185,7 @@ Here are some ideas to get you started:
 ## Регрессия:
 
 <details open>
-  <summary>Список проетктов по теме</summary>
+  <summary>Список проектов по теме</summary>
 <table>
 <tr>
   <th>Название проекта</th>
@@ -256,7 +256,7 @@ Here are some ideas to get you started:
 ## Классификация:
 
 <details open>
-  <summary>Список проетктов по теме</summary>
+  <summary>Список проектов по теме</summary>
 <table>
 <tr>
   <th>Название проекта</th>
