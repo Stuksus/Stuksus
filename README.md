@@ -91,7 +91,7 @@ Here are some ideas to get you started:
   <td>Очная</td>
   <td>В процессе</td>
   <td>Финалист</td>
-  <td>Временно недоступно</td>
+  <td><a href = "https://github.com/Stuksus/Hakaton_Finodays">Решение</a></td>
 </tr> 
 </table>
 
