@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 <tr>
   <td><a href = "https://finodays.com/">FINODAYS</a></td>
   <td>Очная</td>
-  <td>В процессе</td>
+ <td><p>В процессе</p> (Последний этап перенесен на осень 2022)</td>
   <td>Финалист</td>
   <td><a href = "https://github.com/Stuksus/Hakaton_Finodays">Решение</a></td>
 </tr> 
