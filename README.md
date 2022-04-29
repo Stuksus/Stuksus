@@ -59,10 +59,17 @@ Here are some ideas to get you started:
 </tr> 
 <tr>
   <td>
-   <a href = "https://mipt.ru/online/algoritmov-i-tekhnologiy/machin-learning.php" >СберУниверситет: Финансовая оценка AI инициатив</a>
+   <p>СберУниверситет: Финансовая оценка AI инициатив</p>
   </td>
   <td>Дистанционная</td>
   <td>Завершен</td>
+</tr> 
+<tr>
+  <td>
+   <p>СберУниверситет: Анализ временных рядов методами машинного обучения</p>
+  </td>
+  <td>Дистанционная</td>
+  <td>В процессе</td>
 </tr> 
 <tr>
   <td><a href = "https://github.com/Stuksus/Credit_scoring_model">Яндекс.Практикум: Специалист по Data Science</a></td>
