@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <tr>
   <td>ПАО Сбербанк</td>
   <td>Стажер</td>
-  <td>Разработка моделей обработки естественного языка (NLP), анализ качества оценки разметки текстов, при помощи методов машинного обучения</td>
+  <td>Разработка моделей обработки естественного языка (NLP), проверка гипотез, подготовка данных для разметки, общение с заказчиками по результатам построенных моделей и презентация результатов. </td>
   <td>Очная</td>
   <td>21.01.22</td>
   <td>настоящее время</td>
@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 </table>
 
 # Сертификаты:
- - Яндекс.Практикум: [RUS](https://github.com/Stuksus/Stuksus/blob/main/certificate.pdf)/[EN](https://github.com/Stuksus/Stuksus/blob/main/certificate_en.pdf)
+ - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/Stuksus/Stuksus/blob/main/certificate.pdf)/[EN](https://github.com/Stuksus/Stuksus/blob/main/certificate_en.pdf)
+ - СберУниверситет: Финансовая оценка AI инициатив [RUS](https://github.com/Stuksus/Stuksus/blob/main/sber-university-AI.png)
 # Курсы:
 <table>
 <tr>
@@ -54,6 +55,13 @@ Here are some ideas to get you started:
 <tr>
   <td><a href = "https://www.hse.ru/ba/ami/courses/292689583.html">НИУ ВШЭ (ФКН ПМИ): Машинное обучение 1</a></td>
   <td>Очная</td>
+  <td>Завершен</td>
+</tr> 
+<tr>
+  <td>
+   <a href = "https://mipt.ru/online/algoritmov-i-tekhnologiy/machin-learning.php" >СберУниверситет: Финансовая оценка AI инициатив</a>
+  </td>
+  <td>Дистанционная</td>
   <td>Завершен</td>
 </tr> 
 <tr>
