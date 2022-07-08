@@ -67,6 +67,8 @@ Here are some ideas to get you started:
 # Сертификаты:
  - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/Stuksus/Stuksus/blob/main/certificate.pdf)/[EN](https://github.com/Stuksus/Stuksus/blob/main/certificate_en.pdf)
  - СберУниверситет: Финансовая оценка AI инициатив [RUS](https://github.com/Stuksus/Stuksus/blob/main/sber-university-AI.png)
+ - СберУниверситет: Жизненный цикл DS/AI моделей [RUS](https://github.com/Stuksus/Stuksus/blob/main/sber-university-AI.png)
+ - СберУниверситет: Модельный риск и мониторинг моделей [RUS](https://github.com/Stuksus/Stuksus/blob/main/sber-university-AI.png)
 # Курсы:
 <table>
 <tr>
@@ -88,13 +90,20 @@ Here are some ideas to get you started:
 </tr> 
 <tr>
   <td>
-   <p>СберУниверситет: Анализ временных рядов методами машинного обучения</p>
+   <p>СберУниверситет: Жизненный цикл DS/AI моделей</p>
   </td>
   <td>Дистанционная</td>
-  <td>В процессе</td>
+  <td>Завершен</td>
 </tr> 
 <tr>
-  <td><a href = "https://github.com/Stuksus/Credit_scoring_model">Яндекс.Практикум: Специалист по Data Science</a></td>
+  <td>
+   <p>СберУниверситет: Модельный риск и мониторинг моделей</p>
+  </td>
+  <td>Дистанционная</td>
+  <td>Завершен</td>
+</tr> 
+<tr>
+  <td><a href = "https://practicum.yandex.ru/data-scientist/">Яндекс.Практикум: Специалист по Data Science</a></td>
   <td>Дистанционная</td>
   <td>Завершен</td>
 </tr> 
@@ -120,16 +129,25 @@ Here are some ideas to get you started:
   <td><a href = "https://dsbattle.com/hackathons/gsb/">GSB Data Science Practice</a></td>
   <td>Очная</td>
   <td>Завершен</td>
-  <td>Финалист (5 место)</td>
+  <td>5 место (команда MegaQuant)</td>
   <td><a href = "https://github.com/Stuksus/Hackaton_SBER">Решение</a></td>
 </tr> 
 <tr>
   <td><a href = "https://finodays.com/">FINODAYS</a></td>
   <td>Очная</td>
  <td><p>В процессе</p> (Последний этап перенесен на осень 2022)</td>
-  <td>Финалист</td>
+  <td>Финалист (команда MegaQuant)</td>
   <td><a href = "https://github.com/Stuksus/Hakaton_Finodays">Решение</a></td>
 </tr> 
+
+<tr>
+  <td><a href = "https://finodays.com/">Moscow City Hack</a></td>
+  <td>Заочная</td>
+ <td>Завершен</td>
+  <td>6 место (команда MegaQuant)</td>
+  <td><a href = "https://github.com/Stuksus/maketing_recomendation_service">Решение</a></td>
+</tr> 
+ 
 </table>
 
 
