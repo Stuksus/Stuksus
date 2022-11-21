@@ -135,13 +135,13 @@ Here are some ideas to get you started:
 <tr>
   <td><a href = "https://finodays.com/">FINODAYS</a></td>
   <td>Очная</td>
- <td><p>В процессе</p> (Последний этап перенесен на осень 2022)</td>
-  <td>Финалист (команда MegaQuant)</td>
+ <td><p>Завершен</p></td>
+  <td>3 место (команда MegaQuant)</td>
   <td><a href = "https://github.com/Stuksus/Hakaton_Finodays">Решение</a></td>
 </tr> 
 
 <tr>
-  <td><a href = "https://finodays.com/">Moscow City Hack</a></td>
+  <td><a href = "https://moscityhack2022.innoagency.ru">Moscow City Hack</a></td>
   <td>Заочная</td>
  <td>Завершен</td>
   <td>6 место (команда MegaQuant)</td>
