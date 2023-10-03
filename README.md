@@ -118,6 +118,27 @@ Here are some ideas to get you started:
 
 # Хакатоны:
 <table>
+ <tr>
+  <td><a href = "https://www.mgpu.ru/obrazovanie/institutes/ide/olimpiady-tvorcheskie-konkursy-v-itso/data-hakaton/">Хакатон по Ed-Tech</a></td>
+  <td>Очная</td>
+  <td>Завершен</td>
+  <td>1 место (команда MegaQuant)</td>
+  <td><a href = "">Решение</a></td>
+</tr> 
+ <tr>
+  <td><a href = "https://dsbattle.com/hackathons/gsb/">GSB Data Science Practice</a></td>
+  <td>Очная</td>
+  <td>Завершен</td>
+  <td>5 место (команда MegaQuant)</td>
+  <td><a href = "https://github.com/Stuksus/Hackaton_SBER">Решение</a></td>
+</tr> 
+ <tr>
+  <td><a href = "https://finodays.com/">FINODAYS</a></td>
+  <td>Очная</td>
+ <td><p>Завершен</p></td>
+  <td>3 место (команда MegaQuant)</td>
+  <td><a href = "https://github.com/Stuksus/Hakaton_Finodays">Решение</a></td>
+</tr> 
 <tr>
   <th>Название хакатона</th>
   <th>Форма проведения</th>
@@ -125,20 +146,8 @@ Here are some ideas to get you started:
   <th>Результаты</th>
   <th>Решение</th>
 </tr> 
-<tr>
-  <td><a href = "https://dsbattle.com/hackathons/gsb/">GSB Data Science Practice</a></td>
-  <td>Очная</td>
-  <td>Завершен</td>
-  <td>5 место (команда MegaQuant)</td>
-  <td><a href = "https://github.com/Stuksus/Hackaton_SBER">Решение</a></td>
-</tr> 
-<tr>
-  <td><a href = "https://finodays.com/">FINODAYS</a></td>
-  <td>Очная</td>
- <td><p>Завершен</p></td>
-  <td>3 место (команда MegaQuant)</td>
-  <td><a href = "https://github.com/Stuksus/Hakaton_Finodays">Решение</a></td>
-</tr> 
+
+
 
 <tr>
   <td><a href = "https://moscityhack2022.innoagency.ru">Moscow City Hack</a></td>
